@@ -13,6 +13,8 @@ Overall, creating this website was definitely a challenge from having to transla
 
 
 **LOW FI PROTOTYPE**
+
+
 ![2IMG_1005](https://user-images.githubusercontent.com/99691433/163797640-97312b0b-5879-4200-a4e1-15cb90552adb.jpg)
 
 
