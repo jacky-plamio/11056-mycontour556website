@@ -20,9 +20,11 @@ Overall, creating this website was definitely a challenge from having to transla
 
 **HIGH FI PROTOTYPE**
 ![hifi prototype](/assets/images/Screenshot 2022-04-18 191833.jpg "hifipt")
+![Screenshot 2022-04-18 191833](https://user-images.githubusercontent.com/99691433/163796900-d2a8705d-995a-41da-9f7f-29fa7ed58c27.jpg)
 
 
-![hifi prototype](assets/images/Screenshot 2022-04-18 191926.jpg "hifidpt")
+![hifi prototype](/assets/images/Screenshot 2022-04-18 191926.jpg "hifidpt")
+![Screenshot 2022-04-18 191926](https://user-images.githubusercontent.com/99691433/163796920-bffc84b0-1158-4ccd-8bcd-a0d8d9a18a9c.jpg)
 
 
 **RESOURCES**
