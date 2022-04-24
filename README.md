@@ -14,14 +14,16 @@ Overall, creating this website was definitely a challenge from having to transla
 
 **LOW FI PROTOTYPE**
 
-![lo fi prototype](/assets/images/IMG_1005.jpg "lofiprototypes")
+
+![2IMG_1005](https://user-images.githubusercontent.com/99691433/163797640-97312b0b-5879-4200-a4e1-15cb90552adb.jpg)
 
 
 **HIGH FI PROTOTYPE**
-![hifi prototype](/assets/images/Screenshot2022-04-18 191833.jpg "hifipt")
 
 
-![hifi prototype](/assets/images/Screenshot2022-04-18 191926.jpg "hifidpt")
+![Screenshot 2022-04-18 191833](https://user-images.githubusercontent.com/99691433/163797649-6318670f-fea8-44bd-91f5-2ce9bc40b1c3.jpg)
+
+![Screenshot 2022-04-18 191926](https://user-images.githubusercontent.com/99691433/163797666-3743dd77-bf4a-4584-83f3-5eeec2ab9812.jpg)
 
 
 **RESOURCES**
@@ -29,5 +31,8 @@ Overall, creating this website was definitely a challenge from having to transla
 https://www.w3schools.com/
 
 https://css-tricks.com/a-complete-guide-to-links-and-buttons/
+
+https://www.contour556.com.au/
+
 
 
