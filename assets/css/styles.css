@@ -1,0 +1,116 @@
+body html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    width: 55%;
+}
+
+.logo {
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0.5em;
+}
+
+nav {
+    flex: 1;
+    text-align: justify;
+    padding: 0.5em;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin: 2.8em;
+    font-size: 1.2em;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+a {
+    transition: 0.3s;
+    color: black;
+}
+
+/* to change colour when hovering over nav link  */
+
+nav a:hover {
+    color: lightblue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+h1 {
+    font-size: 2.8em;
+    font-family: helvetica;
+    color: black;
+    margin-left: 29%;
+    width: 100%;
+
+}
+
+h2 {
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+}
+
+div p {
+    width: 65%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5em;
+    font-family: sans-serif;
+}
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    padding-left: 3em;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    border: 1.5px solid #000;
+    padding: 0.5em 1em;
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #000;
+}
+
+footer p {
+    font-family: sans-serif;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+}
